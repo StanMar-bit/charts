@@ -1,7 +1,7 @@
 image:
   pullPolicy: IfNotPresent
   repository: tccr.io/truecharts/webtop
-  tag: latest@sha256:57ad1e49112fece3e8d10a1cd40a0d7b3650022b787993f76013eb21216efe29
+  tag: latest@sha256:a194a837e82b40707e1b5ecb96c613d5749f2cd1d9b85591a3e5660a68dd47c2
 
 env:
   KEYBOARD: ""
