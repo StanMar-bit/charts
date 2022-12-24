@@ -1,7 +1,7 @@
 image:
   repository: tccr.io/truecharts/postgresql
   pullPolicy: IfNotPresent
-  tag: 14.6.0@sha256:2237b01c47e58816542cf28b10aae909dd2f64540fcc2ee2ad3d6b5d9479b45c
+  tag: 14.6.0@sha256:255c30dac2146cd90765f7ef3354b6deb8339f5968539da4e4962294b620a7e9
 
 controller:
   # -- Set the controller type.
